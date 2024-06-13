@@ -3,3 +3,4 @@ gunicorn
 SQLAlchemy==1.4.46
 pymysql
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
